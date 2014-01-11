@@ -9,3 +9,4 @@ This directory contains
 (Windows PC, Linux PC, Mac)
 
 /arduino - this directory contains the Arduino library for communicating with Pixy.
+/micropython - this directory contains the micropython library for communicating with Pixy.
